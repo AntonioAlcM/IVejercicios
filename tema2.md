@@ -145,6 +145,9 @@ script:
 
 Nos registraremos en travis con nuestra cuenta de github y habilitaremos que haga test de este repositorio. Tras la ejecución del test nos mostrará el siguiente resultado si todo ha ido de forma correcta incluyendo los resultados de los test como cuando lo ejecutamos en local.
 
+[![Build Status](https://travis-ci.org/Miguelmoral/IV_web_empresa.svg?branch=master)](https://travis-ci.org/Miguelmoral/IV_web_empresa)
+
+
 ![imagen8](http://i68.tinypic.com/25qevyf.png)
 
 
